@@ -2,7 +2,7 @@ class OpenXcode < Formula
   desc "Open the right Xcode workspace/project from anywhere in a repo"
   homepage "https://github.com/OwaisQuadri/open-xcode"
   url "https://github.com/OwaisQuadri/open-xcode/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "REPLACE_AFTER_TAGGING" # shasum -a 256 <v1.0.0 tarball>
+  sha256 "27c349f9b109fcc0ac70817cf4b087e9fb8f7d4174aede2733edce0f46cc70a5"
   license "MIT"
   head "https://github.com/OwaisQuadri/open-xcode.git", branch: "main"
 
